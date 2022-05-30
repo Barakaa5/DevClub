@@ -1,6 +1,6 @@
 import React from "react";
 
-function Searchbox(searchValue,setSearchValue) {
+function Searchbox(searchValue,setSearchValue) { ////////////////change
   return (
     <div className="" id="searchBox">
       <input
